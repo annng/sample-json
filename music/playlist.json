@@ -1,0 +1,176 @@
+[{
+		"name": "Mix J-Pop",
+		"description": "Recommendation J-Pop songs based you play most",
+		"songs": [{
+				"title": "Skyreach",
+				"coverImage": "https://i1.sndcdn.com/artworks-000090958342-pcxe2w-t500x500.jpg",
+				"duration": 410,
+				"album": "Blue",
+				"genre": "Rock",
+				"artist": {
+					"name": "Amamiya Sora",
+					"coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/85/97/c6859763-bad0-ff89-0e73-0919ffb8c956/4580074473369.jpg/1200x1200bb.jpg"
+				}
+			},
+			{
+				"title": "VV-alk",
+				"coverImage": "https://i.ytimg.com/vi/e2SBf7RKcAw/sddefault.jpg",
+				"duration": 257,
+				"album": "VV-alk",
+				"genre": "EDM",
+				"artist": {
+					"name": "Sawano Hiroyuki",
+					"coverImage": "https://1.bp.blogspot.com/-Lz5P7aBXRnc/W__VXm-AJYI/AAAAAAAAGSg/wZdJ-eWBrCoe4N7_Nw-niIbqbHk7r3KYwCLcBGAs/s1600/cover1.jpg"
+				}
+			},
+			{
+				"title": "Hitorigoto",
+				"coverImage": "song6_cover.jpg",
+				"duration": 419,
+				"album": "https://lyricsfromanime.com/animes-info/ero-manga-sensei/cover/ero-manga-sensei-lyrics.jpg",
+				"genre": "J-Pop",
+				"artist": {
+					"name": "Amamiya Sora",
+					"coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/85/97/c6859763-bad0-ff89-0e73-0919ffb8c956/4580074473369.jpg/1200x1200bb.jpg"
+				}
+			},
+			{
+				"title": "Monochrome Syndrom",
+				"coverImage": "https://2.bp.blogspot.com/-J21-fGrkyZ8/XIJvb4QLtxI/AAAAAAAAGcg/wH8-S39JktYM0U84NF8uvvtiUXmW0VZSQCPcBGAYYCw/s1600/_190127232158_Aimer_-_Sun_Dance-1_zoom%2B-%2BCopy.jpg",
+				"duration": 292,
+				"album": "Sun Dance",
+				"genre": "J-Pop",
+				"artist": {
+					"name": "Aimer",
+					"coverImage": "https://i1.sndcdn.com/artworks-12huuLHWOYm9KPEU-qzf9Xg-t500x500.jpg"
+				}
+			}
+		],
+		"createdBy": "SoundsGood AI",
+		"createdDate": "2023-07-31",
+		"coverImage": "https://i.scdn.co/image/ab67706c0000da842994188de7ffb2a3d53edeea"
+	},
+	{
+		"name": "Mix J-Pop",
+		"description": "Recommendation J-Pop songs based you play most",
+		"songs": [{
+				"title": "Skyreach",
+				"coverImage": "https://i1.sndcdn.com/artworks-000090958342-pcxe2w-t500x500.jpg",
+				"duration": 410,
+				"album": "Blue",
+				"genre": "Rock",
+				"artist": {
+					"name": "Amamiya Sora",
+					"coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/85/97/c6859763-bad0-ff89-0e73-0919ffb8c956/4580074473369.jpg/1200x1200bb.jpg"
+				}
+			},
+			{
+				"title": "VV-alk",
+				"coverImage": "https://i.ytimg.com/vi/e2SBf7RKcAw/sddefault.jpg",
+				"duration": 257,
+				"album": "VV-alk",
+				"genre": "EDM",
+				"artist": {
+					"name": "Sawano Hiroyuki",
+					"coverImage": "https://1.bp.blogspot.com/-Lz5P7aBXRnc/W__VXm-AJYI/AAAAAAAAGSg/wZdJ-eWBrCoe4N7_Nw-niIbqbHk7r3KYwCLcBGAs/s1600/cover1.jpg"
+				}
+			},
+			{
+				"title": "Hitorigoto",
+				"coverImage": "song6_cover.jpg",
+				"duration": 419,
+				"album": "https://lyricsfromanime.com/animes-info/ero-manga-sensei/cover/ero-manga-sensei-lyrics.jpg",
+				"genre": "J-Pop",
+				"artist": {
+					"name": "Amamiya Sora",
+					"coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/85/97/c6859763-bad0-ff89-0e73-0919ffb8c956/4580074473369.jpg/1200x1200bb.jpg"
+				}
+			},
+			{
+				"title": "Monochrome Syndrom",
+				"coverImage": "https://2.bp.blogspot.com/-J21-fGrkyZ8/XIJvb4QLtxI/AAAAAAAAGcg/wH8-S39JktYM0U84NF8uvvtiUXmW0VZSQCPcBGAYYCw/s1600/_190127232158_Aimer_-_Sun_Dance-1_zoom%2B-%2BCopy.jpg",
+				"duration": 292,
+				"album": "Sun Dance",
+				"genre": "J-Pop",
+				"artist": {
+					"name": "Aimer",
+					"coverImage": "https://i1.sndcdn.com/artworks-12huuLHWOYm9KPEU-qzf9Xg-t500x500.jpg"
+				}
+			}
+		],
+		"createdBy": "SoundsGood AI",
+		"createdDate": "2023-07-31",
+		"coverImage": "https://i.scdn.co/image/ab67706c0000da842994188de7ffb2a3d53edeea"
+	},
+	{
+		"name": "Eonni Chuayo",
+		"description": "My Lovely K-pop Songs",
+		"songs": [{
+				"title": "Lovesick Girl",
+				"coverImage": "https://i1.sndcdn.com/artworks-4Iylg3xYtW5V11cB-URrxzg-t500x500.jpg",
+				"duration": 281,
+				"album": "As if it's your last",
+				"genre": "Hip-hop",
+				"artist": {
+					"name": "Blackpink",
+					"coverImage": "https://i1.sndcdn.com/artworks-000471880710-tcp1ug-t500x500.jpg"
+				}
+			},
+			{
+				"title": "Playing with Fire",
+				"coverImage": "https://i1.sndcdn.com/artworks-000541190028-di8peg-t500x500.jpg",
+				"duration": 191,
+				"album": "As if it's your last",
+				"genre": "Hip-hop",
+				"artist": {
+					"name": "Blackpink",
+					"coverImage": "https://i1.sndcdn.com/artworks-000471880710-tcp1ug-t500x500.jpg"
+				}
+			},
+			{
+				"title": "As if it's your last",
+				"coverImage": "https://c-cl.cdn.smule.com/rs-s77/arr/5b/9d/cc4bed5a-55e9-46d6-965f-dcec4506b7ae_1024.jpg",
+				"duration": 410,
+				"album": "As if it's your last",
+				"genre": "Rock",
+				"artist": {
+					"name": "Blackpink",
+					"coverImage": "https://i1.sndcdn.com/artworks-000471880710-tcp1ug-t500x500.jpg"
+				}
+			}
+		],
+		"createdBy": "Annng",
+		"createdDate": "2023-07-31",
+		"coverImage": "https://i1.sndcdn.com/artworks-4Iylg3xYtW5V11cB-URrxzg-t500x500.jpg"
+	},
+	{
+		"name": "Young Taylor",
+		"description": "Taylor Swift country song",
+		"songs": [{
+				"title": "Enchanted",
+				"coverImage": "https://cms.disway.id/uploads/fb145051b01d30d1e98d694c62052302.jpeg",
+				"duration": 425,
+				"album": "Speak Now",
+				"genre": "Country",
+				"artist": {
+					"name": "Taylor Swift",
+					"coverImage": "https://pbs.twimg.com/media/D8-LieAWsAAaiTS.jpg:large"
+				}
+			},
+			{
+				"title": "Speak Now",
+				"coverImage": "https://cms.disway.id/uploads/fb145051b01d30d1e98d694c62052302.jpeg",
+				"duration": 225,
+				"album": "Speak Now",
+				"genre": "Country",
+				"artist": {
+					"name": "Taylor Swift",
+					"coverImage": "https://pbs.twimg.com/media/D8-LieAWsAAaiTS.jpg:large"
+				}
+			}
+		],
+		"createdBy": "PA\/m",
+		"createdDate": "2023-07-31",
+		"coverImage": "https://cms.disway.id/uploads/fb145051b01d30d1e98d694c62052302.jpeg"
+	}
+]
