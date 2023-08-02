@@ -51,8 +51,8 @@
 		"coverImage": "https://i.scdn.co/image/ab67706c0000da842994188de7ffb2a3d53edeea"
 	},
 	{
-		"name": "Mix J-Pop",
-		"description": "Recommendation J-Pop songs based you play most",
+		"name": "Anisong",
+		"description": "Anime song you love",
 		"songs": [{
 				"title": "Skyreach",
 				"coverImage": "https://i1.sndcdn.com/artworks-000090958342-pcxe2w-t500x500.jpg",
@@ -77,7 +77,7 @@
 			},
 			{
 				"title": "Hitorigoto",
-				"coverImage": "song6_cover.jpg",
+				"coverImage": "https://i0.wp.com/pandaikotoba.net/wp-content/uploads/2023/02/kusuriya-no-hitorigoto-animasi-visual.jpg",
 				"duration": 419,
 				"album": "https://lyricsfromanime.com/animes-info/ero-manga-sensei/cover/ero-manga-sensei-lyrics.jpg",
 				"genre": "J-Pop",
