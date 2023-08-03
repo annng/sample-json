@@ -1,0 +1,34 @@
+[
+  {
+    "coverImage": "https://blog.placeit.net/wp-content/uploads/2020/10/pop-rock-album-cover-template.png",
+    "name": "Pop"
+  },
+  {
+    "coverImage": "https://images.saymedia-content.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cq_auto:eco%2Cw_1200/MTk4NDA5MzcyMDk3ODQ4ODc4/50-songs-that-you-need-to-know-to-play-in-a-classic-rock-cover-band.png",
+    "name": "Rock"
+  },
+  {
+    "coverImage": "https://www.levelman.com/content/images/size/w600/2023/04/future-album-covers-jrs.jpg",
+    "name": "Hip Hop"
+  },
+  {
+    "coverImage": "https://i.scdn.co/image/ab67616d0000b273e937ca2e096d08c382c2e4b4",
+    "name": "R&B"
+  },
+  {
+    "coverImage": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/earth-sounds-edm-album-artwork-cover-design-template-9a795c1b4e1280039a6f7bb9a5550271_screen.jpg?ts=1600878549",
+    "name": "EDM"
+  },
+  {
+    "coverImage": "https://boldoutline.in/wp-content/uploads/2019/07/COVER-PICs.jpg",
+    "name": "Country"
+  },
+  {
+    "coverImage": "https://publicdomainq.net/images/201901/17s/publicdomainq-0030496uqa.jpg",
+    "name": "Jazz"
+  },
+  {
+    "coverImage": "https://japanvibe.net/wp-content/uploads/2017/09/femm_sotsugyo.jpg",
+    "name": "J-Pop"
+  }
+]
