@@ -1,0 +1,53 @@
+[{
+		"account": {
+			"id": 1,
+			"username": "apapa24",
+			"email": "apapa24",
+			"password": "password123",
+			"profilePicture": "https://i.scdn.co/image/ab67616d0000b273a40e36385f2d45c8b72342f4",
+			"follower": 100,
+			"following": 50
+		},
+		"song": {
+			"title": "Skyreach",
+			"coverImage": "https://i1.sndcdn.com/artworks-000090958342-pcxe2w-t500x500.jpg",
+			"duration": 410,
+			"url": "https://storage.googleapis.com/exoplayer-test-media-0/play.mp3",
+			"album": "Blue",
+			"genre": "Rock",
+			"artist": {
+				"name": "Amamiya Sora",
+				"coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/85/97/c6859763-bad0-ff89-0e73-0919ffb8c956/4580074473369.jpg/1200x1200bb.jpg"
+			},
+			"playlist": null,
+			"like": 10,
+			"comment": 5
+		}
+	},
+	{
+		"account": {
+			"id": 1,
+			"username": "rikoriko",
+			"email": "rikopin@gmail.com",
+			"password": "password123",
+			"profilePicture": "https://preview.redd.it/j72fnwmhr0k81.jpg?width=640&crop=smart&auto=webp&s=88897b25fa75dabde7644515baac4367ef5b1845",
+			"follower": 100,
+			"following": 50
+		},
+		"song": {
+			"title": "Hitorigoto",
+			"coverImage": "https://i0.wp.com/pandaikotoba.net/wp-content/uploads/2023/02/kusuriya-no-hitorigoto-animasi-visual.jpg",
+			"duration": 419,
+			"url": "https://storage.googleapis.com/exoplayer-test-media-0/play.mp3",
+			"album": "https://lyricsfromanime.com/animes-info/ero-manga-sensei/cover/ero-manga-sensei-lyrics.jpg",
+			"genre": "J-Pop",
+			"artist": {
+				"name": "Amamiya Sora",
+				"coverImage": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/85/97/c6859763-bad0-ff89-0e73-0919ffb8c956/4580074473369.jpg/1200x1200bb.jpg"
+			}
+		},
+		"playlist": null,
+		"like": 10,
+		"comment": 5
+	}
+]
