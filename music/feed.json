@@ -21,7 +21,8 @@
 			},
 			"playlist": null,
 			"like": 10,
-			"comment": 5
+			"comment": 5,
+			"caption" : "This song is awesome!!! Listen and feel the melody"
 		}
 	},
 	{
@@ -48,6 +49,7 @@
 		},
 		"playlist": null,
 		"like": 10,
-		"comment": 5
+		"comment": 5,
+		"caption" : "I'm feeling blue now, hope you were here"
 	}
 ]
