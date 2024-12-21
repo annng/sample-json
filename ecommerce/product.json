@@ -1,7 +1,37 @@
-{
+[
+  {
   "id" : 1,
   "name" : "Honey bee",
-  "thumbnail" : "",
-  "model_3d" : "",
-  "price" : 2000
+  "thumbnail" : "https://www.honeyandbirch.com/wp-content/uploads/2015/12/honey-nut-cheerios-milkshake-5.jpg.webp",
+  "model_3d" : "https://raw.githubusercontent.com/annng/sample-json/main/ecommerce/models/honey_bee.gltf",
+  "price" : 8.00
+},
+{
+  "id" : 2,
+  "name" : "Bread",
+  "thumbnail" : "https://www.bakerybits.co.uk/media/blog/painviennois.jpg",
+  "model_3d" : "https://raw.githubusercontent.com/annng/sample-json/main/ecommerce/models/bread.gltf",
+  "price" : 1.00
+},
+{
+  "id" : 3,
+  "name" : "Cocktail",
+  "thumbnail" : "https://images.immediate.co.uk/production/volatile/sites/30/2022/06/Tequila-sunrise-fb8b3ab.jpg",
+  "model_3d" : "https://raw.githubusercontent.com/annng/sample-json/main/ecommerce/models/cocktail.gltf",
+  "price" : 4.00
+},
+{
+  "id" : 4,
+  "name" : "Onigiri",
+  "thumbnail" : "https://allwaysdelicious.com/wp-content/uploads/2012/12/onigiri-hero-1.jpg",
+  "model_3d" : "https://raw.githubusercontent.com/annng/sample-json/main/ecommerce/models/onigiri.gltf",
+  "price" : 6.00
+},
+{
+  "id" : 5,
+  "name" : "Ramen",
+  "thumbnail" : "https://www.unileverfoodsolutions.co.id/dam/global-ufs/mcos/SEA/calcmenu/recipes/ID-recipes/chicken-&-other-poultry-dishes/Ramen-Noodle/Ramen%20(Recipe%20Page).jpg",
+  "model_3d" : "https://raw.githubusercontent.com/annng/sample-json/main/ecommerce/models/ramen.gltf",
+  "price" : 15.00
 }
+]
